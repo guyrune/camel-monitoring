@@ -1,0 +1,3 @@
+author guyrune
+
+- bizframe mas가 없으면 작동되지 않는건가요?
